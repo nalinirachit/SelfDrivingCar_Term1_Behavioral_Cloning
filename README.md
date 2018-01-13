@@ -121,7 +121,7 @@ The video will run at 48 FPS. The default FPS is 60.
 2. You could slightly alter the code in `drive.py` and/or `video.py` to create a video of what your model sees after the image is processed (may be helpful for debugging).
 
 ##### Sources used:
-* http://stackoverflow.com/
+* <sub>http://stackoverflow.com/</sub>
 * https://github.com/
 * s-t1-p-behavioral-clo slack channel
 * https://github.com/priya-dwivedi/CarND
