@@ -120,3 +120,11 @@ The video will run at 48 FPS. The default FPS is 60.
 1. It's been noted the simulator might perform differently based on the hardware. So if your model drives succesfully on your machine it might not on another machine (your reviewer). Saving a video is a solid backup in case this happens.
 2. You could slightly alter the code in `drive.py` and/or `video.py` to create a video of what your model sees after the image is processed (may be helpful for debugging).
 
+##### Sources used:
+* http://stackoverflow.com/
+* https://github.com/
+* s-t1-p-behavioral-clo slack channel
+* https://github.com/priya-dwivedi/CarND
+* https://discussions.udacity.com/
+* Thanks to my mentor for all her wonderful suggestions and her help.
+
