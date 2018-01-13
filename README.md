@@ -122,9 +122,9 @@ The video will run at 48 FPS. The default FPS is 60.
 
 ##### Sources used:
 <sub>* http://stackoverflow.com/</sub>
-* https://github.com/
-* s-t1-p-behavioral-clo slack channel
-* https://github.com/priya-dwivedi/CarND
-* https://discussions.udacity.com/
-* Thanks to my mentor for all her wonderful suggestions and her help.
+<sub>* https://github.com/</sub>
+<sub>* s-t1-p-behavioral-clo slack channel</sub>
+<sub>* https://github.com/priya-dwivedi/CarND</sub>
+<sub>* https://discussions.udacity.com/</sub>
+<sub>* Thanks to my mentor for all her wonderful suggestions and her help.</sub>
 
