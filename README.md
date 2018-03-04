@@ -1,7 +1,7 @@
 # SelfDrivingCar_Term1_Behavioral_Cloning
 Train a car to drive in a simulator using a deep neural network.
 
-# Behaviorial Cloning Project
+# Behavioral Cloning Project
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
